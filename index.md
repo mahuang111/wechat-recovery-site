@@ -50,12 +50,12 @@ keywords: 微信聊天记录恢复,1V1微信恢复,安卓微信恢复,苹果微�
   <div style="display:flex; gap:40px; margin:30px 0;">
     <div>
       <h3>微信咨询</h3>
-      <img src="/assets/qrcode-wechat.png" alt="微信咨询二维码" style="width:180px; height:180px;">
+      <img src="wechat-qrcode.png" alt="微信咨询二维码" style="width:180px; height:180px;">
       <p style="margin-top:10px;">微信ID：xxxxxx（把这里换成你的微信ID）</p>
     </div>
     <div>
       <h3>QQ咨询</h3>
-      <img src="/assets/qrcode-qq.png" alt="QQ咨询二维码" style="width:180px; height:180px;">
+     <img src="qq-qrcode.png" alt="QQ咨询二维码" style="width:180px; height:180px;">
       <p style="margin-top:10px;">QQ号：xxxxxx（把这里换成你的QQ号）</p>
     </div>
   </div>
